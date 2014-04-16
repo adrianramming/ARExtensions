@@ -8,7 +8,7 @@
 
 @implementation UIColor (Extension)
 
-- (UIColor *)initColor {
++ (UIColor *)initColor {
     return [UIColor colorWithRed:230.0f/255.0f green:90.0f/255.0f blue:10.0f/255.0f
                            alpha:1.0f];
 }

@@ -7,6 +7,6 @@
 
 @interface UIColor (Extension)
 
--(UIColor *)initColor;
++(UIColor *)initColor;
 
 @end
